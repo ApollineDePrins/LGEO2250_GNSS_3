@@ -90,4 +90,4 @@ README.md            → ce fichier
 
 -   **Points retenus pour l'analyse** : 136 points FIX sur 139 points collectés
 
-Les données brutes étant volumineuses (1.74 Go), elles sont stockées dans les "Releases" disponible sur :<https://github.com/ApollineDePrins/LGEO2250_GNSS_3/releases/tag/metadata>
+Les données brutes étant volumineuses, elles sont stockées dans les "Releases" disponible sur :<https://github.com/ApollineDePrins/LGEO2250_GNSS_3/releases/tag/metadata>
